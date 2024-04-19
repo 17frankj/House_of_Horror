@@ -17,7 +17,6 @@ def yes_no_Loop(string):
             choice = val
             return choice
         elif val == 0:
-            print("Wow Okay...")
             choice = val
             return choice
         else:
